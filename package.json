@@ -73,7 +73,8 @@
       "SendString": "./components/SendString.coffee",
       "StringTemplate": "./components/StringTemplate.coffee",
       "ConvertEncoding": "./components/ConvertEncoding.coffee",
-      "LowerCaseString": "./components/LowerCaseString.coffee"
+      "LowerCaseString": "./components/LowerCaseString.coffee",
+      "Concat": "./components/Concat.coffee"
     },
     "graphs": {
       "SendJson": "./graphs/SendJson.fbp"
